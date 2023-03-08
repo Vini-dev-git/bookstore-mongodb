@@ -1,0 +1,6 @@
+"type": "module",  ->p/ trabalhar com imports
+
+const port = process.env.POST |3000;
+
+app.listen(port, =>`Server on port ${port}` )|
+
